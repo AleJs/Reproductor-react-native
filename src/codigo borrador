@@ -1,0 +1,89 @@
+
+Application name	reproducto
+API key	7f290ec42693f61f004954f8cd2e3827
+Shared secret	6c0e64d22ce72b658f38820e7ee61d3c
+Registered to	alejscript
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//   <ScrollView  > 
+ 
+
+//   <View style={styles.container}>
+//   {/* <FlatList
+//     data={[ArtistBox]}
+//    renderItem={({item}) => <View>{this.props.ArtistBox}</View>}
+// /> */}
+ 
+// {/*  
+//     Array(500).fill(artist).map(artist =>{
+//         return <ArtistBox artist= {hayley5}/>
+//     )
+//     } */}
+//     <ArtistBox artist={artist} />
+//     <ArtistBox artist={hayley2} />
+//     <ArtistBox artist={hayley3} />
+//     <ArtistBox artist={hayley4} />
+//     <ArtistBox artist={hayley5} />
+//     <ArtistBox artist={hayley6} />
+//        </View>
+      
+// </ScrollView > 
+ ---------------------------------------------------------------------------------------
+  // const artist = {
+    //   image: 'https://ig-s-b-a.akamaihd.net/h-ak-igx/t51.2885-15/e35/18888829_1919814378262537_1181390222881980416_n.jpg',
+    //   name: 'Hayley Williams',
+    //   likes: 200,
+    //   comment:150
+     
+    // }
+    // const hayley2 = {
+    //   image: 'https://ig-s-d-a.akamaihd.net/h-ak-igx/t51.2885-15/e35/20346802_1259321267511795_5805281481802645504_n.jpg',
+    //   name: 'Hayley Williams',
+    //   likes: 200,
+    //   comment:150
+     
+    // }
+    // const hayley3 = {
+    //   image: 'https://ig-s-c-a.akamaihd.net/h-ak-igx/t51.2885-15/e35/20347364_329632574143398_375206736660791296_n.jpg',
+    //   name: 'Hayley Williams',
+    //   likes: 200,
+    //   comment:150
+     
+    // }
+    // const hayley4 = {
+    //   image: 'https://ig-s-b-a.akamaihd.net/h-ak-igx/t51.2885-15/e35/21294629_256905248152873_4858405685987115008_n.jpg',
+    //   name: 'Hayley Williams',
+    //   likes: 200,
+    //   comment:150
+     
+    // }
+    // const hayley5 = {
+    //   image: 'https://ig-s-c-a.akamaihd.net/h-ak-igx/t51.2885-15/e35/20905149_125305834763534_6637817001861447680_n.jpg',
+    //   name: 'Hayley Williams',
+    //   likes: 200,
+    //   comment:150
+     
+    // }
+    // const hayley6 = {
+    //   image: 'https://ig-s-b-a.akamaihd.net/h-ak-igx/t51.2885-15/e35/21372216_883017341855969_2435930464733626368_n.jpg',
+    //   name: 'Hayley Williams',
+    //   likes: 200,
+    //   comment:150,
+    //   id: 1
+    // }
